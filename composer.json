@@ -1,0 +1,8 @@
+{
+    "name": "bedark1/phantom-id-auth",
+    "description": "Authentication backend for PhantomID",
+    "type": "project",
+    "require": {
+        "php": ">=7.4"
+    }
+}
